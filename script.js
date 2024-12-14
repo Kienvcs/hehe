@@ -12,7 +12,7 @@ const elts = {
 
 const texts = ["Nhấn", "vào", "Trái", "Tim", "❤️"];
 
-const morphTime = 1;
+const morphTime = 0.75;
 const cooldownTime = 0.25;
 
 let textIndex = texts.length - 1;
