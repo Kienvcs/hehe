@@ -18,9 +18,8 @@ h1 {
   font-size: 50px;
   transform: translateX(-50%);
 }
-a {
+
   
-}
 button {
   position: absolute;
   z-index: 1;
